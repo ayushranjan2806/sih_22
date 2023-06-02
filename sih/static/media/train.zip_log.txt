@@ -1,0 +1,1 @@
+[{'cat_name': 'Defective', 'cat_count': 85, 'label': 0}, {'cat_name': 'Non defective', 'cat_count': 100, 'label': 1}]
