@@ -1,0 +1,1 @@
+[{'cat_name': 'adidas', 'cat_count': 237, 'label': 0}, {'cat_name': 'converse', 'cat_count': 237, 'label': 1}, {'cat_name': 'nike', 'cat_count': 237, 'label': 2}]

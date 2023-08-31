@@ -1,0 +1,8 @@
+{'Image Shape': (50, 50), 'Contant Features': Index(['ApplicantIncome', 'CoapplicantIncome', 'LoanAmount',
+       'Loan_Amount_Term', 'Credit_History', 'Gender_Female', 'Gender_Male',
+       'Married_No', 'Married_Yes', 'Dependents_0', 'Dependents_1',
+       'Dependents_2', 'Dependents_3+', 'Education_Graduate',
+       'Education_Not Graduate', 'Self_Employed_No', 'Self_Employed_Yes',
+       'Property_Area_Rural', 'Property_Area_Semiurban',
+       'Property_Area_Urban'],
+      dtype='object')}

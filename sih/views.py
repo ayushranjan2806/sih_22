@@ -14,7 +14,7 @@ from email.message import EmailMessage
 
 import openai
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 from django.shortcuts import redirect  
 
@@ -448,7 +448,7 @@ def vidfile(request):
         target=None
         size=50
         #file='C:\\Users\\yuvra\\Downloads\\DATACHEF_CodeAssasins_31473\\SIH_Finale-master\\image_demo.zip'
-        file='C:\\Users\\yuvra\\Downloads\\DATACHEF_CodeAssasins_31473\\SIH_Finale-master\\sih\\static\\upload\\'+a.name
+        file='C:\\Users\\mita\\datachef-ipu\\IPU_Hackathon_Datachef\\sih\\static\\upload\\'+a.name
         data,target,cat=trainVid(file,target,resize=50)
         print(data)
         data.to_csv("media/pro_img.csv")
