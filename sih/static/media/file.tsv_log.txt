@@ -1,1 +1,1 @@
-{'Shape': (1000, 2036), 'Features': ('Vector count', 'Regular Expression', 'Tokenization', 'Stemming', 'Stop words removal'), 'Encoded column number': 0, 'Path': 'C:\\Users\\yuvra\\Downloads\\dc-test-main\\dc-test-main'}
+{'Shape': (1000, 1566), 'Features': ('Vector count', 'Regular Expression', 'Tokenization', 'Stemming', 'Stop words removal'), 'Encoded column number': 0, 'Path': 'C:\\Users\\mita\\datachef-ipu\\IPU_Hackathon_Datachef'}
